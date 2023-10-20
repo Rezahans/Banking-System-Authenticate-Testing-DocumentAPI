@@ -1,11 +1,11 @@
 # Banking-System-Authenticate-Testing-DocumentAPI
 
 # Requirement
-  1. Node.JS
-  3. Express.JS
-  4. Prisma
-  5. Postgresql
-  6. VSCode
+  1. JavaScript
+  3. Node.JS
+  4. Express.JS
+  5. Prisma
+  6. Postgresql
   7. Thunder / Postman
   8. CMD / Terminal
   9. Swagger
@@ -15,3 +15,4 @@
   13. dotenv
   14. Jest
   15. Supertest
+  16. VSCode
